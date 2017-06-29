@@ -8,3 +8,4 @@
 [submodule "qtwebkit"]
 	path = src/qt/qtwebkit
 	url = https://github.com/JoeyLi-1/qtwebkit.git
+	branch = phantomjs
